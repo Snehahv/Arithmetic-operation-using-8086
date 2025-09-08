@@ -170,8 +170,9 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![ayesha mul 3 1](https://github.com/user-attachments/assets/2606d8bc-3c55-4429-957c-9fe95cb313a1)
-![ayesha mul 3](https://github.com/user-attachments/assets/3da588de-9dfa-4967-89bb-17e165b6507c)
+<img width="633" height="402" alt="image" src="https://github.com/user-attachments/assets/77ffbc99-8c5b-4c6d-b045-7b96cacc25b3" />
+
+<img width="647" height="433" alt="Screenshot 2025-09-08 163420" src="https://github.com/user-attachments/assets/3ec7aa7a-0d23-495b-9f49-541510f4b168" />
 
 
 ## 4. DIVISION
