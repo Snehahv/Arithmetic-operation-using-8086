@@ -64,10 +64,9 @@ END
 ![add manual](https://github.com/user-attachments/assets/6c9db824-3c1b-4d85-a3eb-677a52b4715f)
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-
+<img width="653" height="438" alt="Screenshot 2025-09-08 160441" src="https://github.com/user-attachments/assets/997eca1d-c3d1-4347-b1d8-ebbcb9af0b17" />
 <img width="640" height="405" alt="Screenshot 2025-09-08 160258" src="https://github.com/user-attachments/assets/b86845f6-094a-430b-ba8e-4df96723d31a" />
 
-<img width="653" height="438" alt="Screenshot 2025-09-08 160441" src="https://github.com/user-attachments/assets/997eca1d-c3d1-4347-b1d8-ebbcb9af0b17" />
 
 ## 2. SUBTRACTION
 
