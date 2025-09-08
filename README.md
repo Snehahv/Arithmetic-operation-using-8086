@@ -219,8 +219,10 @@ END
 
 
 ## OUTPUT FROM MASM SOFTWARE
-![ayesha div 4 1](https://github.com/user-attachments/assets/dd03fe53-1382-4e8a-8be0-89bc385b5c2d)
-![ayesha div 4](https://github.com/user-attachments/assets/4900a849-5c13-4818-b5cc-8f9a4fd30f70)
+
+<img width="647" height="444" alt="Screenshot 2025-09-08 164600" src="https://github.com/user-attachments/assets/e6058cd9-e95f-42f7-b97c-cb72beaf1979" />
+
+<img width="642" height="427" alt="image" src="https://github.com/user-attachments/assets/99ab1143-8d75-4de0-968c-606b0e876a64" />
 
 
 
